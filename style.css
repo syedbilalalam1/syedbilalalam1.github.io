@@ -831,14 +831,14 @@ footer span a:hover {
 /* Add this in style.css */
 .home .home-content .upwork-btn {
   display: inline-block;
-  background: green;
+  background: #14a800;
   color: #fff;
   font-size: 25px;
   padding: 12px 36px;
   margin-top: 20px;
   font-weight: 400;
   border-radius: 6px;
-  border: 2px solid green;
+  border: 2px #14a800;
   transition: all 0.3s ease;
 }
 
