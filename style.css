@@ -882,3 +882,8 @@ footer span a:hover {
   vertical-align: middle;
   margin-right: 8px; /* Space between logo and text */
 }
+/* Target the homepage section */
+.home {
+    background: url('background.gif') no-repeat center center fixed;
+    background-size: cover;
+}
